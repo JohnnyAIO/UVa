@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-#define eps 1e-15
+#define eps 1e-7
 
 int p, q, r, s, t, u;
 double calc(double xn) {
